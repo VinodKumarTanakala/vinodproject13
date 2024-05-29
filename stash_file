@@ -1,4 +1,7 @@
 This is stash file created
 we are learning stash
+<<<<<<< HEAD
 stash_file 1 is created
 
+=======
+>>>>>>> main
